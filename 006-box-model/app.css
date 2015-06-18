@@ -8,7 +8,42 @@ img {
   max-width: 100%;
 }
 /* Code Under This Line */
+.a {
+  margin: 0 auto;
+  background-color: red;
+  width: 800px;
+  padding: 10px 10px 10px 10px;
+}
 
+
+.b {
+  background-color: orange;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 20px 20px 20px;
+}
+
+.c {
+  background-color: yellow;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 20px 20px 20px;
+}
+.d {
+  background-color: green;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 20px 20px 20px;
+}
+
+.e {
+  background-color: blue;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 20px 20px 20px;
+}
+
+.f {
+  background-color: indigo;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 20px 20px 20px;
+}
 /*
   Colors:
   #FFED5D

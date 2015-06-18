@@ -21,6 +21,7 @@ div {
 .column {
   float: left;
   width: 25%;
-}
+  display: inline-block;
+  white-space: none}
 
 /* Your Code Goes Under This Line */

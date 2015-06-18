@@ -8,4 +8,29 @@ img {
   max-width: 100%;
 }
 
-/* Code Under This Line */
+.short{
+  height:100px;
+}
+
+.tall{
+  height:200px;
+}
+
+
+.outside{
+  height: 100px;
+}
+
+.inside {
+  height: inherit;
+}
+
+.right{float: right;}
+
+body .giant{
+  float:right;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  height:100vh
+}
